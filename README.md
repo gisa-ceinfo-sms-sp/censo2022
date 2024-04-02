@@ -19,9 +19,10 @@ Coordenação de Epidemiologia e Informação (CEInfo) (<a href="https://www.pre
 Coordenadoria de Informação Em Saúde (CIS) (<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/coordenadoria_de_informacao_em_saude/index.php">link</a>)  
 Sercretaria Executiva de Regulação, Monitoramento e Parcerias (SERMAP) (<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/coordenadoria_de_informacao_em_saude/index.php">link</a>)  
 Secretaria Municipal da Saúde de São Paulo (SMS-SP) (<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/organizacao/quem_e_quem/index.php?p=4696">link</a>)  
+  
 Em março, 2024  
 
 
-Aparência da tela da ferramenta: 
+- Aparência da tela da ferramenta: 
 
 ![image](https://github.com/gisa-ceinfo-sms-sp/censo2022/assets/75272641/d0ef3ed0-d12a-405c-929f-85d0ea70a704)
