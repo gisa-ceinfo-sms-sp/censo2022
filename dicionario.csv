@@ -1,0 +1,33 @@
+Layer: Coordenadoria Regional de Saúde (CRS);;;
+;campo;descricao;valor
+;CRS;;CENTRO
+Layer: Supervisão Técnica de Saúde (STS);;;
+;campo;descricao;valor
+;STS;;S?
+Layer: Áreas de abrangência de UBS;;;
+;campo;descricao;valor
+;CNES;Código de Inscrição no Cadastro Nacional de Estabelecimentos de Saúde (CNES);6090621
+;NOMEUBS;Denominação do Estabelecimento de Saúde;UBS REPÚBLICA
+;DENS_DEMOG;Densidade demográfica;26.341,87
+;STS_UBS;Supervisão Técnica de Saúde (STS)(agrupamento das áreas de abrangência das UBS da STS);SE
+;CRS_UBS;Coordenadoria Regional de Saúde (CRS)(agrupamento das áreas de abrangência das UBS da CRS);CENTRO
+;POP2022;População recenseada no ano de 2022 pelo IBGE;60.716
+;DOM;Total de Domicílios;42.407
+;DOMP;Total de Domicílios Particulares;42.289
+;DOMC;Total de Domicílios Coletivos;118
+;MORDOMPO;Moradores por Domicílio Particular Ocupado;1,973
+;DOMIMPUT;Domicílios imputados no método (vazios, recusas,...);5.190,45
+;DOMPO;Total de Domicílios Particulares Ocupados;30.773
+;SUM_AREASC;Soma das área dos setores (km²);2,305
+Layer: Setores censitários 2022 (versão preliminar) - CRS Centro;;;
+;campo;descricao;valor
+;CD_SETOR;código do setor;355030866000183P
+;AREA_KM2;área do setor (km²);0,014
+;NM_DIST;Denominação do Distrito Administrativo;Rep+?blica
+;POP2022;População recenseada no ano de 2022 pelo IBGE;480
+;DOM;Total de Domicílios;317
+;DOMP;Total de Domicílios Particulares;317
+;DOMC;Total de Domicílios Coletivos;0
+;DENS_DOM;Moradores por Domicílio Particular Ocupado;2,11
+;DOMIMPUT;Domicílios imputados no método (vazios, recusas,...);29
+;DOMPO;Total de Domicílios Particulares Ocupados;228
