@@ -54,15 +54,17 @@
 .layer-switcher ul {
     padding-left: 2em;
     list-style: none;
+    font-size: 9px;
 }
 
 .layer-switcher li.group > label {
     font-weight: bold;
-    font-size: 8px;
+    font-size: 10px;
 }
 
 .layer-switcher li.layer {
     display: table;
+    font-size: 9px;
 }
 
 .layer-switcher li.layer label, .layer-switcher li.layer input {
