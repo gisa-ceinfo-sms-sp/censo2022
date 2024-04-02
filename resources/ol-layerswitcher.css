@@ -24,7 +24,7 @@
     border-radius: 4px;
     background-color: white;
     display: none;
-    max-height: 100%;
+    max-height: 90%;
     overflow-y: auto;
 }
 
@@ -58,6 +58,7 @@
 
 .layer-switcher li.group > label {
     font-weight: bold;
+    font-size: 10px;
 }
 
 .layer-switcher li.layer {
