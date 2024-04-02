@@ -15,3 +15,11 @@ Coordenadoria Regional de Saúde - CEInfo/CAB/SMS-SP, 2022 (<a href="https://met
 Setores censitários (versão preliminar)- Censo Demográfico 2022, IBGE (<a href="https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/26565-malhas-de-setores-censitarios-divisoes-intramunicipais.html?edicao=39501&t=acesso-ao-produto">download</a>)
 
 
+| Elaboração:
+Núcleo de Geoprocessamento e Informação Socioambiental (GISA) (<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/epidemiologia_e_informacao/geoprocessamento_e_informacoes_socioambientais/">link</a>)
+Coordenação de Epidemiologia e Informação (CEInfo) (<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/epidemiologia_e_informacao/">link</a>)
+Coordenadoria de Informação Em Saúde (CIS) (<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/coordenadoria_de_informacao_em_saude/index.php">link</a>)
+Sercretaria Executiva de Regulação, Monitoramento e Parcerias (SERMAP) (<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/coordenadoria_de_informacao_em_saude/index.php">link</a>)
+Secretaria Municipal da Saúde de São Paulo (SMS-SP) (<a href="[https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/coordenadoria_de_informacao_em_saude/index.php](https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/organizacao/quem_e_quem/index.php?p=4696)">link</a>)
+Em março, 2024
+
