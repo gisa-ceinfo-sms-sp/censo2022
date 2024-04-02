@@ -63,4 +63,42 @@
     <script src="layers/CoordenadoriaRegionaldeSadeCRS_21.js"></script>
     <script src="styles/reasdeabrangnciadeUBS_2_style.js"></script>
     <script src="styles/SupervisoTcnicadeSadeSTS_3_style.js"></script>
-    <script src="styles/Coorden
+
+     <script src="styles/CoordenadoriaRegionaldeSadeCRS_4_style.js"></script>
+    <script src="styles/CRSSul_5_style.js"></script>
+    <script src="styles/CRSSudeste_6_style.js"></script>
+    <script src="styles/CRSNorte_7_style.js"></script>
+    <script src="styles/CRSOeste_8_style.js"></script>
+    <script src="styles/CRSCentro_9_style.js"></script>
+    <script src="styles/CRSLeste_10_style.js"></script>
+    <script src="styles/ProvisoHabitacional_11_style.js"></script>
+    <script src="styles/Assentamentosprecrios_12_style.js"></script>
+    <script src="styles/Setorescensitrios2022versopreliminarCRSSul_13_style.js"></script>
+    <script src="styles/Setorescensitrios2022versopreliminarCRSSudeste_14_style.js"></script>
+    <script src="styles/Setorescensitrios2022versopreliminarCRSNorte_15_style.js"></script>
+    <script src="styles/Setorescensitrios2022versopreliminarCRSOeste_16_style.js"></script>
+    <script src="styles/Setorescensitrios2022versopreliminarCRSLeste_17_style.js"></script>
+    <script src="styles/Setorescensitrios2022versopreliminarCRSCentro_18_style.js"></script>
+    <script src="styles/reasdeabrangnciadeUBS_19_style.js"></script>
+    <script src="styles/SupervisoTcnicadeSadeSTS_20_style.js"></script>
+    <script src="styles/CoordenadoriaRegionaldeSadeCRS_21_style.js"></script>
+    <script src="./layers/layers.js" type="text/javascript"></script> 
+    <script src="./resources/Autolinker.min.js"></script>
+    <script src="./resources/qgis2web.js"></script>
+    
+    <!-- Adiciona controle de escala -->
+    <script>
+        // Inicializar o mapa
+        var map = new ol.Map({
+            target: 'map',
+            view: new ol.View({
+                center: ol.proj.fromLonLat([-46.6333, -23.5505]), // Coordenadas de São Paulo
+                zoom: 12 // Zoom padrão
+            })
+        });
+
+        // Adicionar controle de escala ao mapa
+        map.addControl(new ol.control.ScaleLine());
+    </script>
+</body>
+</html>
