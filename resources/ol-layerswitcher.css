@@ -81,7 +81,7 @@
 }
 
 .layer-switcher.touch ::-webkit-scrollbar {
-    width: 4px;
+    width: 12px;
 }
 
 .layer-switcher.touch ::-webkit-scrollbar-track {
