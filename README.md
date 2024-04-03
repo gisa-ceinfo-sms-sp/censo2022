@@ -20,7 +20,7 @@ Coordenadoria de Informação Em Saúde (CIS) (<a href="https://www.prefeitura.s
 Sercretaria Executiva de Regulação, Monitoramento e Parcerias (SERMAP) (<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/coordenadoria_de_informacao_em_saude/index.php">link</a>)  
 Secretaria Municipal da Saúde de São Paulo (SMS-SP) (<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/organizacao/quem_e_quem/index.php?p=4696">link</a>)  
   
-Em março, 2024  
+Em março/2024  
 
 
 - Aparência da tela da ferramenta: 
