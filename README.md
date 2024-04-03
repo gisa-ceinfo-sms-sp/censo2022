@@ -27,4 +27,3 @@ Em março/2024
 - 
 ![image](https://github.com/gisa-ceinfo-sms-sp/censo2022/assets/75272641/e75c66ed-60cc-4663-aa65-f88786b70a1b)
 
-![image](https://github.com/gisa-ceinfo-sms-sp/censo2022/assets/75272641/d0ef3ed0-d12a-405c-929f-85d0ea70a704)
