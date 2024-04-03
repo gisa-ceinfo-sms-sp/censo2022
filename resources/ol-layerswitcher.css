@@ -29,7 +29,7 @@
 }
 
 .layer-switcher.shown .panel {
-    display: block;
+    display: flex;
 }
 
 .layer-switcher button {
