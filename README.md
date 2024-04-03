@@ -1,5 +1,5 @@
 # censo2022
-Ferramenta de consulta elaborada para disseminação dos primeiros resultados do Censo 2022/IBGE, segundo as Unidades Territoriais e de Gestão da Secretaria Municipal da Saúde de de São Paulo.
+Ferramenta de consulta elaborada para disseminação dos primeiros resultados do Censo 2022/IBGE, segundo as Unidades Territoriais e de Gestão da Secretaria Municipal da Saúde de São Paulo.
 
 - Link para acessar a ferramenta: https://gisa-ceinfo-sms-sp.github.io/censo2022
 
