@@ -24,6 +24,6 @@ Em março/2024
 
 
 - Aparência da tela da ferramenta:
-- 
+
 ![image](https://github.com/gisa-ceinfo-sms-sp/censo2022/assets/75272641/e75c66ed-60cc-4663-aa65-f88786b70a1b)
 
